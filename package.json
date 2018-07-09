@@ -1,0 +1,30 @@
+{
+  "name": "react-native-page-component",
+  "version": "0.0.1",
+  "description": "react-native-page-component for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "16.2.0",
+    "react-native": "0.53.0"
+  },
+  "devDependencies": {
+    "babel-jest": "23.2.0",
+    "babel-preset-react-native": "^5",
+    "jest": "23.3.0",
+    "react-test-renderer": "16.4.1"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeakTan/react-native-page-component.git"
+  },
+  "author": {
+    "name": "peak",
+    "email": "1755059481@qq.com",
+    "url": "https://github.com/PeakTan"
+  },
+  "license": "ISC"
+}
