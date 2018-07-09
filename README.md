@@ -14,7 +14,7 @@ or using yarn:
 yarn add react-native-page-component
 ```
 ## Usage
-```
+```javascript
 <PageComponent
             name="FriendsHelper"
             style={{ flex: 1, width: this.mScreenWidth }}
