@@ -34,8 +34,8 @@ yarn add react-native-page-component
                 return <PageItem host="FriendsHelper" index={index} onVisibilityLoad={() => {
                     pageItemComponent.fetchResult();
                 }}>
-                    <PageItemComponent pageRef={this} cateId={this.state.cateIds[index]} ref={ref => pageItemComponent = ref}></PageItemComponent>
+                    <PageItemComponent pageRef={this} cateId={this.state.cateIds[index]} ref={ref => pageItemComponent = ref}>                                 </PageItemComponent>
                 </PageItem>
             }}>
-        </PageComponent>
-        ```
+</PageComponent>
+```
